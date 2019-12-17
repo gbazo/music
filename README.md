@@ -6,8 +6,10 @@ It was developed as a requirement for discipline completion.
 
 Gabriel Bazo – 10277231
 
-IBI5070 – Seminários em Tópicos Avançados de Bioinformática 
+IBI5070 – Seminários em Tópicos Avançados de Bioinformática
+
 PPG Interunidades em Bioinformática
+
 Universidade de São Paulo
 
 
