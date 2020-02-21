@@ -4,6 +4,8 @@ The objective of this work is to generate possible reproductive musical composit
 
 It was developed as a requirement for discipline completion.
 
+An example of worked sound is available, this result was achieved by a joint work between the generation of the algorithm and improvements made by the teacher.
+
 Gabriel Bazo – 10277231
 
 IBI5070 – Seminários em Tópicos Avançados de Bioinformática
